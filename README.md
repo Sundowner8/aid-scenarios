@@ -1,5 +1,5 @@
 # aid-scenarios
-A repository of scenarios for AI Dungeon. Scenarios should be put in their proper categories and have the scenario name in the filename, even with stuff like tags in the filename if you wish.
+A repository of scenarios for AI Dungeon. Scenarios should be put in their proper categories and have the scenario name in the filename, even with stuff like tags in the filename like: [name] [tag] [tag].txt
 
 Suggest new categories if you feel none of the current ones fit.
 
