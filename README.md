@@ -3,6 +3,8 @@ A repository of scenarios for AI Dungeon. Scenarios should be put in their prope
 
 Suggest new categories if you feel none of the current ones fit.
 
+Make a pull request with the scenario(s) you want to add and I'll merge them when I can
+
 Current categories:
 - Fantasy
 - Science Fiction
