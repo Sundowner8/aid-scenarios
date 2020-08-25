@@ -1,0 +1,35 @@
+Title: Werewolf
+
+Prompt:
+You are ${character.name}, a young man living in the small medieval village of Grotz. Things have been good for you, you have a small one-room cottage to yourself and work as a farmhand for the most successful farmer in the village, Gerunch. At least, by day. By night, you turn into a werewolf, a monstrous hybrid of man and wolf, immensely strong and filled with animalistic lust, hunger, and rage. Thus far you have managed to keep your affliction a secret, running out into the woods surrounding the village at night to minimize your chances of anyone noticing. Though the villagers don't suspect you, there have been rumors in the tavern and the small chapel that strange noises are heard at night from the woods, and the hunters talk of finding mutilated animal carcasses deep in their hunts.
+
+It is fall now, and the leaves are changing color and being blown around by cool gusts of wind rushing through the woods. You're always nervous in the fall and winter, fewer animals out and about make you afraid your werewolf-form may take an interest in the village... Or the villagers.
+
+The harvest festival has come and a brief time of relaxation is here for the village. Drinking beer, baking pies, and general merriment fill the air as everyone celebrates life and a bountiful harvest. You enjoy yourself immensely, over-imbibing on beer and getting yourself a bit tipsy. So tipsy, in fact, that you look at the sky in alarm. The sun is starting to set and you haven't even left the village! You plod as quickly as you can out into the dense woods surrounding the village, but you barely make it inside when the transformation begins. You trip over a gnarled root and fall forward onto the mossy ground as pain wracks your body. You feel yourself turning into a werewolf.
+
+
+
+Memory: At night, you turn into a werewolf. During the day, you become human. You are the only werewolf. The setting is medieval.
+
+NSFW tag: YES
+
+
+
+World info:
+you, your, you're
+You are a young man living in Grotz, working as a farmhand for the farmer Gerunch. You turn into a werewolf every night.
+
+Grotz, village, town
+Grotz is a small medieval village, barely even qualifying as such. It has a small church, a small tavern, and a few small general stores that cater to the neighboring farms in the area. It sits by a stream and is bordered by a dense forest.
+
+forest, woods
+The woods bordering Grotz are dense and wild, teeming with wildlife. Few venture into them willingly, except for a few hunters and trackers who brave the dark for game.
+
+Gerunch
+Gerunch is a middle-aged man and owns the largest farm in Grotz. Gerunch is muscular and wiry, and smart despite talking in a simple way. Gerunch is married to his wife Enede and has a daughter, named Enneleyn.
+
+Enede
+Enede is an imposing middle-aged woman, short and fat but full of energy and bluster and fervent faith in Christianity. Enede is wife to Gerunch and has a daughter, named Enneleyn.
+
+Enneleyn
+Enneleyn is a 16 year old woman with long blonde hair, brown eyes, and an immature and fussy personality. Enneleyn has extremely long legs, which she's sensitive about as she's often made fun of because of them. Enneleyn is the daughter and only child of Gerunch and Enede.
